@@ -16,5 +16,7 @@
 ##
   
 <div style="display: inline_block">
-  <img align="center" height="400" width="400" src="https://5efce21e120dc77e32455754.static-01.com/l/images/a6009c2e58b205e8f4c79ce426f43c0234e9603b.gif">
+  
+  <img align="right" height="400" width="400" style="border-radius:50px;" src="https://5efce21e120dc77e32455754.static-01.com/l/images/a6009c2e58b205e8f4c79ce426f43c0234e9603b.gif">
+  
 </div>
