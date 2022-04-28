@@ -1,4 +1,4 @@
-# Olá, mundo! <h1>
+# Olá, mundo!
   
 <!--
 **catarinatxt/catarinatxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
