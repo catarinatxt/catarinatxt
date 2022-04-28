@@ -1,4 +1,4 @@
-# Olá, mundo! Eu me chamo Catarina. 
+# Olá, mundo! 
 
 - Eu me chamo Catarina, mas pode me chamar de Cat! 🐈
 - Meus pronomes são ela/dela. 💫
