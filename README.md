@@ -3,7 +3,6 @@
 - Eu me chamo Catarina, mas pode me chamar de Cat! 🐈
 - Meus pronomes são ela/dela. 💫
 - Estou estudando Data Science. 📚
-- Curso Sistemas de informação na UFBA. 📝
 - Procuro estágios na área de dados. 🔍
 - Meus interesses pessoais estão relacionados a e-sports, jogos e marketing. 🕹️ 
 
